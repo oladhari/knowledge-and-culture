@@ -8,7 +8,7 @@ from wagtail.images.edit_handlers import ImageChooserPanel
 
 
 class CategoryPage(Page):
-    """Section page."""
+    """Category page."""
 
     content_panels = Page.content_panels
 
